@@ -1,0 +1,82 @@
+npm i sass-loader -D
+npm uninstall sass-loader -D
+npm uninstall node-sass
+
+npm i sass-loader@5 -D
+npm i sass-loader@^5 -D
+npm i sass-loader@^6 -D
+npm i sass-loader@^8 -D
+npm i node-sass -D
+
+npm i vue-loader -D
+
+npm install sass@1.26.5 --save-dev
+npm install sass-loader@7.3.1 --save-dev
+
+npm run build.js
+npm run build:js
+
+
+npm run serve
+
+
+
+在Windows中，vscode格式化代码快捷键是“Shift+Alt+F”；
+在Mac中，vscode格式化代码快捷键是“Shift+Option+F”；
+在Ubuntu中，vscode格式化代码快捷键是“Ctrl+Shift+I”。
+
+
+
+
+https://www.cnblogs.com/kebaoye/p/16016637.html
+https://blog.csdn.net/m0_58122175/article/details/126009723
+
+其实吧这个问题其实不算是大问题，只不过vue的脚手架建议用大驼峰命名规范，我是自己新建的vue文件，命名不规范造成的
+
+https://www.sass.hk/
+https://www.sass.hk/guide/
+https://www.gulpjs.com.cn/docs/getting-started/quick-start/
+
+
+gulp --version
+npm i sass -D
+
+
+```js
+"scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "build:js": "webpack --config ./webpack.config.js",
+    "build:css": "npx gulp sass"
+  },
+
+
+TypeError: Cannot read properties of undefined (reading 'styles')
+
+npm run build
+
+
+npm config set registry https://registry.npmjs.org/
+npm notice Log in on https://registry.npm.taobao.org/
+
+npm config set registry https://registry.npm.taobao.org/
+npm login
+npm publish
+
+
+npm config set registry https://registry.npm.taobao.org/
+npm install -D vuepress
+
+
+yarn docs:dev # npm run docs:dev
+VuePress dev server listening at http://localhost:8080/
+
+
+https://www.vuepress.cn/
+
+
+```
+
+
+
