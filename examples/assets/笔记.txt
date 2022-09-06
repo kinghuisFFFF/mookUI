@@ -7,6 +7,7 @@ npm i sass-loader@^5 -D
 npm i sass-loader@^6 -D
 npm i sass-loader@^8 -D
 npm i node-sass -D
+npm i webpack@4 -D
 
 npm i vue-loader -D
 
@@ -18,6 +19,9 @@ npm run build:js
 
 
 npm run serve
+
+git push origin --delete main
+npm run deploy
 
 
 
@@ -36,6 +40,18 @@ https://blog.csdn.net/m0_58122175/article/details/126009723
 https://www.sass.hk/
 https://www.sass.hk/guide/
 https://www.gulpjs.com.cn/docs/getting-started/quick-start/
+
+
+https://www.cnblogs.com/nanruosen/p/16500406.html
+cw_wxz@126.com
+kinghuisFFFF
+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
+
+https://kinghuisffff.github.io/mookUI
+https://kinghuisffff.github.io/mookUI/
+
+https://www.imooc.com/video/23589
+
 
 
 gulp --version

@@ -1,4 +1,6 @@
 module.exports = {
+    title:'Mooc-UI',
+    base: '/mookUI/',
     title: "景天",
     description: "景天带你上王者",
     port: "80",
@@ -18,7 +20,9 @@ module.exports = {
             {text: "剑指offer", link: "/offer/"},
             {text: "LeeCode", link: "/leeCode/"},
             {text: "专栏", link: "/column/"},
-            {text: "时光轴", link: "/timeaxle/"}
+            {text: "时光轴", link: "/timeaxle/"},
+            {text: "Github", link: "https://github.com/kinghuisFFFF/mookUI"},
+            {text: "NPM", link: "https://www.npmjs.com/package/moock-ui"}
 		],
         sidebar: {
             "/xd/": [
